@@ -32,7 +32,7 @@ Quer contribuir? Viu algo errado? Você pode entrar em contato com o autor:
 
 * [LinkedIn](https://www.linkedin.com/in/pedrohpguimaraes/)
 
-Este primer é open source e está [hospedado no Github](https://github.com/pedroheund/QiNodesPrimer) - sinta-se à vontade para enviar pull requests!
+Este primer é open source e está [hospedado no Github](https://github.com/pedroheund/QiNodesPrimer). Sinta-se à vontade para enviar pull requests!
 
 ***
 
