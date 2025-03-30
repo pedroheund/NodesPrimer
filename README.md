@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Sobre
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -24,7 +38,7 @@ Vamos começar?
 
 [Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural e amante de tecnologia👨‍💻.
 
-Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades, incluindo a inteligência artificial do Eberick.
+Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades do Eberick, incluindo o recurso de inteligência artificial.
 
 ### Entre em contato
 

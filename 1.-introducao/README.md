@@ -1,5 +1,5 @@
 ---
-description: Just getting started!
+description: Bem-vindo a bordo! 🚀
 layout:
   title:
     visible: true
