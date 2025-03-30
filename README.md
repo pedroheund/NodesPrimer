@@ -14,7 +14,7 @@ O termo "primer" vem do inglês e refere-se a um material introdutório que apre
 
 Este primer foi criado para oferecer um ponto de partida sólido, organizando informações essenciais de forma didática e progressiva. Ao longo deste material, você encontrará explicações diretas, exemplos práticos e um panorama geral do QiNodes, permitindo que você construa um entendimento sólido para que consiga compreender a ferramenta aproveitar todo o seu potencial.
 
-Seja você um iniciante absoluto ou alguém buscando revisar conceitos essenciais, este primer foi feito para guiá-lo de maneira clara e eficiente.&#x20;
+Seja você um iniciante absoluto ou alguém buscando revisar conceitos essenciais, este primer foi feito para guiá-lo de maneira clara e eficiente.
 
 Vamos começar?
 
@@ -22,7 +22,7 @@ Vamos começar?
 
 ### Sobre o autor
 
-[Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural e amante de tecnologia👨‍💻.&#x20;
+[Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural e amante de tecnologia👨‍💻.
 
 Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades, incluindo a inteligência artificial do Eberick.
 
@@ -32,9 +32,7 @@ Quer contribuir? Viu algo errado? Você pode entrar em contato com o autor:
 
 * [LinkedIn](https://www.linkedin.com/in/pedrohpguimaraes/)
 
-Este primer é open source e está [hospedado no Github](https://dynamopythonprimer.gitbook.io/dynamo-python-primer/about-this-primer) - sinta-se à vontade para enviar pull requests!
-
-CORRIGIR LINK VER COMO LINKAR GITBOOK NO GITHUB
+Este primer é open source e está [hospedado no Github](https://github.com/pedroheund/QiNodesPrimer) - sinta-se à vontade para enviar pull requests!
 
 ***
 
@@ -43,4 +41,3 @@ CORRIGIR LINK VER COMO LINKAR GITBOOK NO GITHUB
 > QiNodes é uma marca registrada da AltoQi.\
 > Copyright © 2025 AltoQi. Todos os Direitos Reservados.\
 > O conteúdo deste primer é de propriedade de Pedro Guimarães. Todos os direitos reservados.
-
