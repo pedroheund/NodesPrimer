@@ -22,7 +22,7 @@ Vamos começar?
 
 ### Sobre o autor
 
-[Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural e amante de tecnologia👨‍💻.
+[Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil :man\_construction\_worker:, projetista estrutural🏗️ e amante de tecnologia💻.&#x20;
 
 Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades do Eberick, incluindo o recurso de inteligência artificial.
 
