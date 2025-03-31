@@ -1,6 +1,6 @@
 ---
-description: Chega de falar, vamos por a mão na massa!
+description: Coleções
 ---
 
-# 3. Hands On
+# 3. Listas
 

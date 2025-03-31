@@ -1,3 +1,7 @@
-# 2. Eberick
+---
+description: O início da escalada🏔️
+---
 
-`Conteudo Privado`
+# 2. Explorando o QiNodes
+
+Escadinha ou escalada de montanha
