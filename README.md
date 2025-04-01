@@ -1,6 +1,6 @@
 # Sobre
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### O que é um primer?
 
@@ -22,7 +22,7 @@ Vamos começar?
 
 ### Sobre o autor
 
-[Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural🏠 e amante de tecnologia💻.&#x20;
+[Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural🏠 e amante de tecnologia💻.
 
 Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades do Eberick, incluindo o recurso de inteligência artificial.
 
