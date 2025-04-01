@@ -2,8 +2,8 @@
 
 * [Sobre](README.md)
 * [1. Introdução](1.-introducao/README.md)
-  * [1.1 Conhecendo o QiNodes](1.-introducao/1.1-o-que-e-qinodes.md)
-  * [1.2 Programação visual](1.-introducao/1.2-estruturas.md)
+  * [1.1 Programação visual](1.-introducao/1.2-estruturas.md)
+  * [1.2 Conhecendo o QiNodes](1.-introducao/1.1-o-que-e-qinodes.md)
   * [1.3 QiNodes na prática](1.-introducao/1.3-qinodes-na-pratica.md)
 * [2. Explorando o QiNodes](2.-eberick/README.md)
   * [2.1 Conhecendo a interface](2.-eberick/2.3-lajes.md)
