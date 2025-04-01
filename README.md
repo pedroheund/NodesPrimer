@@ -18,7 +18,7 @@ layout:
 
 ### **QiNodes:** Personalize, automatize, otimiz&#x65;**!**
 
-Se código fosse concreto, uma linguagem de programação visual seria como blocos pré-moldados: em vez de escrever cada linha à mão, você simplesmente encaixa os elementos certos para construir sua solução.
+Se código fosse concreto, o QiNodes seria como blocos pré-moldados: em vez de escrever cada linha à mão, você simplesmente encaixa os elementos certos para construir sua solução.
 
 No QiNodes, você não precisa decorar comandos ou escrever código—basta conectar nós, como se estivesse montando um diagrama. Cada nó representa uma ação ou um dado, e o fluxo entre eles define o comportamento do seu programa.
 
