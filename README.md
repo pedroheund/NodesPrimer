@@ -34,7 +34,7 @@ Vamos começar?
 
 [Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural🏠 e amante de tecnologia💻.
 
-Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades do Eberick, incluindo o recurso de inteligência artificial.
+Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades do Eberick.
 
 ***
 
