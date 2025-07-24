@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Sobre
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
@@ -48,7 +34,7 @@ Vamos começar?
 
 [Pedro Guimarães](https://www.linkedin.com/in/pedrohpguimaraes/) é engenheiro civil 🏗️, projetista estrutural🏠 e amante de tecnologia💻.
 
-Atualmente, faz parte do time de produto da AltoQi, onde contribuiu para a idealização do QiNodes e para diversas funcionalidades do Eberick.
+Atualmente, faz parte do time de produto do Eberick na AltoQi, onde contribuiu para a idealização do QiNodes.
 
 ***
 
@@ -58,7 +44,7 @@ Quer contribuir? Viu algo errado? Você pode entrar em contato com o autor:
 
 * [LinkedIn](https://www.linkedin.com/in/pedrohpguimaraes/)
 
-Este primer é open source e está [hospedado no Github](https://github.com/pedroheund/QiNodesPrimer). Sinta-se à vontade para enviar pull requests!
+Este primer é open source e está hospedado no [Github](https://github.com/pedroheund/QiNodesPrimer). Sinta-se à vontade para enviar pull requests!
 
 ***
 
