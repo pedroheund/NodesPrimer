@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Sobre](README.md)
-* [1. Introdução](1.-introducao/README.md)
+* [1. Introdução 1](1.-introducao/README.md)
   * [1.1 Conhecendo o Nodes](1.-introducao/1.1-o-que-e-qinodes.md)
   * [1.2 Programação visual](1.-introducao/1.2-estruturas.md)
   * [1.3 Nodes na prática](1.-introducao/1.3-qinodes-na-pratica.md)
