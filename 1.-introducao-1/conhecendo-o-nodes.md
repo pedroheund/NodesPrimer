@@ -1,2 +1,0 @@
-# Conhecendo o Nodes
-
