@@ -5,6 +5,8 @@
   * [1.1 Conhecendo o Nodes](1.-introducao/1.1-o-que-e-qinodes.md)
   * [1.2 Programação visual](1.-introducao/1.2-estruturas.md)
   * [1.3 Nodes na prática](1.-introducao/1.3-qinodes-na-pratica.md)
+* [1. Introdução](1.-introducao-1/README.md)
+  * [Conhecendo o Nodes](1.-introducao-1/conhecendo-o-nodes.md)
 * [2. Explorando o Nodes](2.-eberick/README.md)
   * [2.1 Conhecendo a interface](2.-eberick/2.3-lajes.md)
   * [2.2 Nós e conexões](2.-eberick/2.4-escadas.md)
