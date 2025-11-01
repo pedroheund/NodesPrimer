@@ -1,6 +1,6 @@
 # Sobre
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **AltoQi Nodes:** Personalize, automatize, otimiz&#x65;**!**
 
