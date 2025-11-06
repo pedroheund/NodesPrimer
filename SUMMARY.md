@@ -12,6 +12,7 @@
 * [3. Listas](3.-hands-on/README.md)
   * [3.1 O que são listas?](3.-hands-on/3.1-visualizacao-de-esforcos.md)
   * [3.2 Listas em ação](3.-hands-on/3.2-janelas-3d.md)
+  * [3.3 Iterando sobre listas](3.-hands-on/3.3-iterando-sobre-listas.md)
   * [3.3 Amarração](3.-hands-on/3.3-trabalhando-em-bim.md)
 * [4. Integração com o Eberick](5.-integracoes/README.md)
   * [4.1 Obtendo informações](5.-integracoes/5.1-editor-de-armadura.md)
