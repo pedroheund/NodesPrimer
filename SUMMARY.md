@@ -27,7 +27,6 @@
   * [7.1 O que é Python?](7.-python/7.1-o-que-e-python.md)
   * [7.2 Nó Python](7.-python/7.2-no-python.md)
   * [7.3 Expressões com Python](7.-python/7.3-expressoes-com-python.md)
-* [8. Glossário (rever)](6.-glossario/README.md)
-  * [8.1 Geral](6.-glossario/6.3-geral.md)
+* [8. Glossário](6.-glossario.md)
 * [9. Apêndice](7.-apendice.md)
 * [Index de nós](index-de-nos.md)
