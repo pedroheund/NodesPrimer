@@ -23,5 +23,6 @@
   * [5.1 O que é Python?](5.-python/5.1-o-que-e-python.md)
   * [5.2 Nó Python](5.-python/5.2-no-python.md)
   * [5.3 Pacotes](5.-python/5.3-pacotes.md)
-* [Glossário](6.-glossario.md)
+* [6. Apêndice](6.-apendice.md)
+* [7. Glossário](6.-glossario.md)
 * [Index de nós](index-de-nos.md)
