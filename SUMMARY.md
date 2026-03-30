@@ -25,4 +25,3 @@
   * [5.3 Pacotes](5.-python/5.3-pacotes.md)
 * [6. Apêndice](6.-apendice.md)
 * [7. Glossário](6.-glossario.md)
-* [Index de nós](index-de-nos.md)
